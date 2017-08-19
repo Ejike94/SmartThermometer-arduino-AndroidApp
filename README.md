@@ -16,3 +16,5 @@ This should prevent possibile Man in the Middle attacks, and Replay attacks. The
 
 The procedure of this technique can be found on the EjDigest Methods, encrypts and decrypts the unique messages.
 
+The Arduino Code can be found on the .ino File
+
